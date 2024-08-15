@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <Container maxWidth="lg">
       <Head>
-        <title>Flashcard SaaS</title>
-        <meta name = "description" content="Create flashcard from your text" />
+        <title> Flashcard SaaS </title>
+        <meta name = "description" content='Create flashcard from your text' />
       </Head>
 
       <AppBar position = "static">
