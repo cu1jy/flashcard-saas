@@ -32,10 +32,10 @@ export default function Home() {
             Flashcard SaaS 
           </Typography>
           <SignedOut>
-            <Button color = "inherit" sx={{ fontWeight: 'bold'}}> 
+            <Button color = "inherit" href="sign-in" sx={{ fontWeight: 'bold'}}> 
               Login 
             </Button>
-            <Button color = "inherit" sx ={{ fontWeight: 'bold'}}> 
+            <Button color = "inherit" href="sign-up" sx ={{ fontWeight: 'bold'}}> 
               Sign Up 
             </Button>
           </SignedOut>
